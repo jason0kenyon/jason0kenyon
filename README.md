@@ -15,7 +15,7 @@
  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjason0kenyon%2Fjason0kenyon">
- <img align="left" src="https://api.visitorbadge.io/api/visitors?Opath=https%3A%2F%2Fgithub.com%2Fjason0kenyon%2Fjason0kenyon&label=VISITORS&countColor=%23263759" />
+ <img align="left" src="https://api.visitorbadge.io/api/visitorspath=https%3A%2F%2Fgithub.com%2Fjason0kenyon%2Fjason0kenyon&label=VISITORS&countColor=%23263759" />
  
  </p>
 <br/>
