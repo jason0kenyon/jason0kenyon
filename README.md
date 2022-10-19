@@ -1,4 +1,6 @@
 ### Hi there, I'm [Jason!](https://www.linkedin.com/in/jason-kenyon-416b07218) 👋
+I am an undergraduate mathematics student and undergraduate researcher at [Binghamton University](https://www2.math.binghamton.edu/p/start). I have interests in logic, real analysis, and quantum information. Additionally, I'm a self-taught web-developer and programmer, passionate about solving problems, design, and contributing to free and open source software. Contact me below to learn more about the services I provide, and my prior work (or just say hi).
+
 
 
 
@@ -11,6 +13,7 @@
  <a href="https://github.com/jason0kenyon/dotfiles">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/neovim.svg"/>
 <a href="mailto:jason0kenyon@gmail.com">
+
  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjason0kenyon%2Fjason0kenyon"><img align="left" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjason0kenyon%2Fjason0kenyon&label=VISITORS&countColor=%23263759" /></a>
  
@@ -34,6 +37,8 @@
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </p>
 
