@@ -10,8 +10,12 @@
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
  <a href="https://github.com/jason0kenyon/dotfiles">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/neovim.svg"/>
+  
+<a href="mailto:jason0kenyon@gmail.com">
+ <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjason0kenyon%2Fjason0kenyon">
- <img align="left" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjason0kenyon%2Fjason0kenyon&label=VISITORS&countColor=%23263759" /></a>
+ <img align="left" src="https://api.visitorbadge.io/api/visitors?Opath=https%3A%2F%2Fgithub.com%2Fjason0kenyon%2Fjason0kenyon&label=VISITORS&countColor=%23263759" />
  
  </p>
 <br/>
