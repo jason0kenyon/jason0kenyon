@@ -8,7 +8,7 @@ I am an undergraduate mathematics student and undergraduate researcher at [Bingh
 <p align="left">
 <a href="https://www.linkedin.com/in/jason-kenyon-416b07218/">
  <img align="left" alt="Jason Kenyon| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https://twitter.com/8bithemant">
+<a href="https://twitter.com/jason__kenyon">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
  <a href="https://github.com/jason0kenyon/dotfiles">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/neovim.svg"/>
