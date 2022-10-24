@@ -1,4 +1,4 @@
-### Hi there, I'm [Jason!](https://www.linkedin.com/in/jason-kenyon-416b07218) 👋
+### Hi there, I'm [Jason!](https://jason-kenyon.com) 👋
 I am an undergraduate mathematics student and undergraduate researcher at [Binghamton University](https://www2.math.binghamton.edu/p/start). I have interests in logic, real analysis, and quantum information. Additionally, I'm a self-taught web-developer and programmer, passionate about solving problems, design, and contributing to free and open source software. Contact me below to learn more about the services I provide, and my prior work (or just say hi).
 
 
