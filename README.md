@@ -1,5 +1,5 @@
 ### Hi there, I'm [Jason!](https://jason-kenyon.com) 👋
-I am an undergraduate mathematics student and undergraduate researcher at [Binghamton University](https://www2.math.binghamton.edu/p/start). I have interests in logic, real analysis, and quantum information. Additionally, I'm a self-taugh programmer passionate about solving problems, design, and contributing to free and open source software. Feel free to contact me via email.
+I am an undergraduate mathematics student and researcher at [Binghamton University](https://www2.math.binghamton.edu/p/start). I have interests in anlysis and quantum information. Additionally, I'm a self-taugh programmer passionate about solving problems, design, and contributing to free and open source software. Feel free to contact me via email:
 
 
 
