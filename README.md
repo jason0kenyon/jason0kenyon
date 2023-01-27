@@ -5,7 +5,7 @@ I am an undergraduate mathematics student and undergraduate researcher at [Bingh
 
 
 <a href="mailto:jason0kenyon@gmail.com">
- <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </p>
 
 
