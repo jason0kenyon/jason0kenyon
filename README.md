@@ -1,17 +1,5 @@
-### Hi there, I'm [Jason!](https://jason-kenyon.com) 👋
-I am an undergraduate mathematics student and researcher at [Binghamton University](https://www2.math.binghamton.edu/p/start). I have interests in anlysis and quantum information. Additionally, I'm a self-taugh programmer passionate about solving problems, design, and contributing to free and open source software. Feel free to contact me via email:
+### Hi there, I'm Jason
 
-
-
-
-<a href="mailto:jason0kenyon@gmail.com">
- <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </p>
-
-
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason0kenyon&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
- 
 
 
 
